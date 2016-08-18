@@ -7,6 +7,6 @@ public static void main(String[] args) {
 	System.out.println("Enter the two Strings");
 	s1=in.next():
 	s2=in.next();
-  System.out.println(s1.indexOf(s2));
+  System.out.println(s1.indexOf(s2)); // check whether string2 present in string1 and returns index 
 }
 	
